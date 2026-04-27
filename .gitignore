@@ -1,0 +1,12 @@
+# model weights
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+
+# large datasets
+*.jsonl
+
+# output folders
+task3/out/
+task3/minimind-master/dataset/
