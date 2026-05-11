@@ -1,0 +1,8 @@
+Experiment: SRCNN_x2
+Last epoch: 10000
+Best epoch: 9994
+Best PSNR: 34.534674
+Best SSIM: 0.935951
+Best checkpoint: results/SRCNN_x2/best.pth.tar
+Last checkpoint: results/SRCNN_x2/last.pth.tar
+Epoch checkpoints: samples/SRCNN_x2

@@ -1,0 +1,7 @@
+file_name,bicubic_psnr,bicubic_ssim,srcnn_psnr,srcnn_ssim,psnr_gain,ssim_gain,sr_image_path,comparison_image_path
+baby.png,37.110727,0.953155,37.823552,0.960498,0.712825,0.007344,results/test/SRCNN_x2/baby.png,results/test/SRCNN_x2/comparisons/baby.png
+bird.png,36.847669,0.972951,38.305475,0.978426,1.457806,0.005475,results/test/SRCNN_x2/bird.png,results/test/SRCNN_x2/comparisons/bird.png
+butterfly.png,27.439357,0.916110,28.320178,0.914999,0.880822,-0.001111,results/test/SRCNN_x2/butterfly.png,results/test/SRCNN_x2/comparisons/butterfly.png
+head.png,34.895166,0.863301,35.193993,0.871961,0.298827,0.008660,results/test/SRCNN_x2/head.png,results/test/SRCNN_x2/comparisons/head.png
+woman.png,32.159049,0.948483,33.028244,0.953821,0.869194,0.005337,results/test/SRCNN_x2/woman.png,results/test/SRCNN_x2/comparisons/woman.png
+Average,33.690394,0.930800,34.534288,0.935941,0.843895,0.005141,,
